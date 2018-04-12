@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="zincpcastep">
+    <file>images/lighting.png</file>
+  </qresource>
+</RCC>
