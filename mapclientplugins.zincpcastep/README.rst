@@ -22,3 +22,9 @@ You can specify the number of principle-components, pressing the **Set** button 
 Changing the sliders will modify the geometry.
 
 .. image:: img/img2.png
+
+
+Example
+^^^^^^
+
+As an example you can use the liver geometries provided in this directory as a test project (./example_geometries/fourcubes). Where you can find a set of 15 liver geometries.
