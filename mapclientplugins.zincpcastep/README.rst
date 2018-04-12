@@ -25,6 +25,10 @@ Changing the sliders will modify the geometry.
 
 
 Example
-^^^^^^
+-------
 
-As an example you can use the liver geometries provided in this directory as a test project (./example_geometries/fourcubes). Where you can find a set of 15 liver geometries.
+As an example you can use the two sets of 15 liver geometries provided.
+
+* Two-element cubic-hermite liver: ./example_geometries/twocubes 
+* Four-element cubic-hermite liver: ./example_geometries/fourcubes 
+
