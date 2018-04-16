@@ -32,3 +32,7 @@ As an example you can use the two sets of 15 liver geometries provided.
 * Two-element cubic-hermite liver: ./example_geometries/twocubes 
 * Four-element cubic-hermite liver: ./example_geometries/fourcubes 
 
+TODO
+------
+* Add embedding geometry
+* Make new step icon
